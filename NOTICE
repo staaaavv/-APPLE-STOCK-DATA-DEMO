@@ -1,0 +1,26 @@
+Apple Stock Data Demo (AI-Ready Dataset)
+Copyright 2025 Stavroula Agourou (github.com/staaaavv)
+
+This project demonstrates data collection, cleaning, feature engineering, 
+visualization, and reporting for the Apple Inc. (AAPL) stock using public data.
+
+Data Sources:
+- Yahoo Finance API via the `yfinance` library
+- Technical indicators via the `ta` library
+- PDF generation via the `reportlab` library
+All mentioned libraries are open-source and used under their respective licenses.
+
+Notes:
+- All financial data are publicly available from Yahoo Finance and used only for 
+  educational and demonstration purposes.
+- No personal, confidential, or private data are collected or stored.
+- The data, reports, and scripts provided in this repository are not intended for 
+  commercial financial use or investment decisions.
+- The author disclaims any responsibility for errors, omissions, or outcomes resulting 
+  from the use of this material.
+
+License:
+This project is licensed under the Apache License, Version 2.0.
+You may not use this file except in compliance with the License.
+A copy of the License is available in the LICENSE file or at:
+    http://www.apache.org/licenses/LICENSE-2.0
